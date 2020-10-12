@@ -17,7 +17,7 @@ Pour l'utiliser, on l'appelle en lui passant comme argument un chemin. Si ce che
 	invertImg path/to/my/file.{JPG/JPEG/PNG}
 	//convertir une seule photo
   
-## grayscale 
+## grayscaleImg 
 
 Celui là permet de passer une photo en nuance de gris 
 
@@ -25,7 +25,7 @@ Même fonctionnement que invertImg. Les nouvelles photos seront enregistrées da
 
 *Exemple d'appel du script*
 
-	grayscale path/to/my/folder
+	grayscaleImg path/to/my/folder
 	//convertir l'ensemble des photos
-	grayscale path/to/my/file.{JPG/JPEG/PNG}
+	grayscaleImg path/to/my/file.{JPG/JPEG/PNG}
 	//convertir une seule photo
