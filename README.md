@@ -8,7 +8,7 @@ Flemme d'utiliser photoshop ou d'appliquer un preset sur l'ensemble de mes photo
 
 Celui là permet d'inverser les couleurs d'une photo : **negatif -> positif** (et fatalement l'inverse). 
 
-Pour l'utiliser, on l'appelle en lui passant comme argument un chemin. Si ce chemin est un fichier, ce dernier sera convertit ; si c'est un dossier, l'ensemble des fichiers seront convertis (ouaa c bo) ! Les fichiers ne seront pas écrasés. Les nouvelles photos seront enregistrées dans un dossier nommé `positif`
+Pour l'utiliser, on l'appelle en lui passant comme argument un chemin. Si ce chemin est un fichier, ce dernier sera converti ; si c'est un dossier, l'ensemble des fichiers seront convertis (ouaa c bo) ! Les fichiers ne seront pas écrasés. Les nouvelles photos seront enregistrées dans un dossier nommé `positif`
 
 *Exemple d'appel du script*
 
