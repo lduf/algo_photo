@@ -12,10 +12,10 @@ Pour l'utiliser, on l'appelle en lui passant comme argument un chemin. Si ce che
 
 *Exemple d'appel du script*
 
-  invertImg path/to/my/folder
-  //convertir l'ensemble des photos
-  invertImg path/to/my/file.{JPG/JPEG/PNG}
-  //convertir une seule photo
+	invertImg path/to/my/folder
+	//convertir l'ensemble des photos
+	invertImg path/to/my/file.{JPG/JPEG/PNG}
+	//convertir une seule photo
   
 ## grayscale 
 
@@ -25,7 +25,7 @@ Même fonctionnement que invertImg. Les nouvelles photos seront enregistrées da
 
 *Exemple d'appel du script*
 
-  grayscale path/to/my/folder
-  //convertir l'ensemble des photos
-  grayscale path/to/my/file.{JPG/JPEG/PNG}
-  //convertir une seule photo
+	grayscale path/to/my/folder
+	//convertir l'ensemble des photos
+	grayscale path/to/my/file.{JPG/JPEG/PNG}
+	//convertir une seule photo
