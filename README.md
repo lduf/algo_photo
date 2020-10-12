@@ -19,7 +19,7 @@ Pour l'utiliser, on l'appelle en lui passant comme argument un chemin. Si ce che
   
 ## grayscaleImg 
 
-Celui là permet de passer une photo en nuance de gris 
+Celui-là permet de passer une photo en nuances de gris 
 
 Même fonctionnement que invertImg. Les nouvelles photos seront enregistrées dans un dossier nommé `grayscale`
 
