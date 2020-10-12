@@ -30,6 +30,6 @@ Même fonctionnement que invertImg. Les nouvelles photos seront enregistrées da
 	grayscaleImg path/to/my/file.{JPG/JPEG/PNG}
 	//convertir une seule photo
 
-#NB : 
+# NB : 
 
 J'utilise des imports qui peuvent nécessiter une installation donc pense à les faire
